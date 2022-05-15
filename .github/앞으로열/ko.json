@@ -1,205 +1,47 @@
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Alex",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Wed4": "Eat eggs! They are great as a complement and strengthen, but don't abuse it, especially if it's a goose egg, which is quite large.",
-				"Thu8": "If I train hard, I'll be able to contain a big bull, that's for sure."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Demetrius",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Thu2": "Are you growing green beans? I always use them in personal recipes. It also serves as feed for birds such as geese, guineas and chickens.",
-				"Fri8": "Yesterday I saw an Alphenios Ovino Petium, that rare specimen ... I should do more research or try to find a way to get more information.",
-				"summer_Mon6": "I saw a purple pig these days, he was definitely ... attractive, I want to meet him again, he seems to be an undocumented individual.",
-				"summer_Tue4": "Fertilizer is good for producing high quality fruit, do you use it?#$b#You can even make more money from it. If you have an ox, it will be easy for you.",
-				"summer_Fri": "Do you have animals on this farm? I was interested in researching the specimens, especially if they are rare specimens.",
-				"fall_Sun": "At this time of year, I turn my attention to fungi. However, observing the forest brings me much closer to animals like Guinea.",
-				"winter_Thu4": "I like to analyze some specimens, if you have any products from your animals, I would like to test some titrations."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Dwarf",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Thu4": "I feel comfortable here, it's a quiet place and quite ancient, even with the action of you humans.#$b#In the morning the ducks and geese sing a lot in the lake in front.",
-				"Fri8": "Sometimes I am undecided if I go out into the mountains looking for something, the night singing of some different Guineas... scares me.",
-				"Sun6": "I miss my civilization... a vague memory is the mountain goats walking on the mountain...#$b#Are you going to buy something?",
-				"winter_Sun": "I saw a goat yesterday during my mountain tour, they are graceful animals and skilled at climbing mountains.",
-				"summer_Thu6": "Sometimes I see a blue-billed duck swimming in the pond... I think he's... Interesting."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Emily",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Wed2": "Sometimes I watch the teals flying, their beautiful colors brighten my day.",
-				"Fri10": "@, do you take care of animals? Is it fun to take care of them? I would like to raise some chickens or cows, I see Marnie and I find her work very fun.",
-				"Sun6": "I heard from my parents who are doing well on vacation, they even sent me pictures of some Guineas that are in the woods near the hotel where they are.",
-				"summer_Tue2": "In this time of warm colors, a peacock feather stands out with cool and warm colors together, that's very beautiful don't you think?$1",
-				"summer_Sat10": "The day is going very well, I feel a positive energy, I think the ducks I saw playing in the water sent me a good energy.",
-				"fall_Fri8": "Hey @, I found a golden feather, it looks like a goose...#$b#Ah what does that have to do with you? I remembered that you are radiant like a feather.",
-				"winter_Sun6": "Have you heard of the goose that laid the golden eggs?$l#$b#It's a story that I remembered the other day when I saw geese swimming in the river ... wouldn't it be magical if it really existed?",
-				"spring_1_2": "Good, another year starting, and another time of flocks of birds returning from migration.#$b#I saw a flock of geese flying earlier today, one of them seemed to have a golden tail, but I think it was just an impression, well , See you later."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Krobus",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Tue10": "... Thank you for visiting me so much, it's very lonely here. #$e# I never thought I would befriend humans ... if you want to please me, dark items usually make me happy.",
-				"spring_1_2": "I wanted to tell you that I will be selling a new item, well you are a great friend and merchant, so I wanted to bring something new.",
-				"summer_Fri2": "Eh... Well... Void chickens are pretty cute aren't they?"
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Leah",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Mon6": "Hi @, enjoying the break? Are you raising a lot of animals? Marnie has a good variety of animals, doesn't she?",
-				"Tue4": "I went out yesterday to collect some things in the forest, it really has a lot to offer.#$b#The wild pig tracks always help me find the chocolate truffles.$1",
-				"Wed8": "It's good to let the mind commune with nature, you revitalize it, the sound of wild animals like teals and frogs.",
-				"Thu2": "Sometimes during the rains, you can see the crabs coming out of the lakes and coming ashore to walk in the forest, it's a really fun thing to see.",
-				"Fri6": "Whenever possible, I go to the salon, the food is good there, it is cheap and there are always people there, I really like talking to Emily, in fact, I found a tuft of animal hair, I will give it to her, she must like it.",
-				"summer_Thu8": "It is very good to leave the house early and look at nature, one of these days I saw a flock of geese flying, one of them seemed to glow a little golden, it must be a good omen.",
-				"fall_Tue8": "I went out one of these days to walk in the forest and look for inspiration... I saw some geese swimming in the lake...#$b#I got inspired and made a sculpture called: Oblique Birds.",
-				"fall_Wed2": "The mallard has brown colors and a glossy green that's amazing to behold isn't it?",
-				"winter_Fri2": "Hey @, have you heard of the golden goose? Emily told me this story last year, was the one I saw last year one of those fantastic beings?",
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Leo",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Mon2": "There are a lot of ostrichs on the island... but they are hidden, they don't like non-parrot people very much.",
-				"Tue2": "Feather, feather, feather, feather feather...#$b#Hm, hello @, I found a peacock feather earlier today, isn't it beautiful?.$1"
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Marnie",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Mon2": "I order all our supplies from an old acquaintance of mine, he comes by sometimes and introduces me to new animals... But I prefer to leave it at that, I don't have enough market for some animals like: Llamas.",
-				"Mon8": "I think it is in my blood to take care of animals. Someone has to maintain this line of work, I never tire of waking up and taking care of my cows and oxen.",
-				"Mon6": "Chickens are simple and undemanding birds, a straw feed for them is enough to lay eggs.",
-				"Mon10": "I had a conversation lately with Damires, she told me that some small communities survive by selling animal products.",
-				"Tue2": "Jas likes feathers, you know? It's very easy to befriend her with colored feathers.",
-				"Tue4": "I've been testing what it's like to raise Guineas, they're cute and their singing is very funny#$b#I think they're very cute and you?",
-				"Tue6": "Guineas are birds that are a bit fussy about their housing, a large chicken coop will be necessary.#$b#But their eggs and mayonnaise make more.",
-				"Tue8": "Oxen, sheep and goats are simple animals even though they are relatively large.#$b#Because they are males, they do not produce milk, however, their feces are great for producing fertilizers.",
-				"Wed2": "I always lived on the farm, this farm belonged to my parents ... They left the legacy of taking good care of animals, nowadays I put more friends in the store.",
-				"Wed4": "I liked the results of raising exotic pigs, they are specialized in finding different truffles, I believe that a good cook can invent a delicious dish by mixing all of them.",
-				"Wed6": "Ducks and Mallards are a little demanding birds, they need a big chicken coop.#$b#Their eggs are worth a little more than hens, their feathers that they drop sometimes make great gifts.",
-				"Wed8": "Cows are the mammals I love the most.#$b#They are cute and easy to raise, they don't require much and their milk production is very good when well fed.",
-				"Thu": "Geese are large birds and that's why they live in barns instead of chicken coops.#$b#Their eggs are big and look great, and they make great mayonnaise.",
-				"Thu2": "A tip, to raise animals in the oviparous barn, you need a big brooder.#$b#However, you can use an brooder from a chicken coop you already have, to hatch this egg and then just move the newborn to a barn.",
-				"Fri": "Sometimes I wonder if I can get a job at the Ferngill Republic Board of Livestock, would I be happy as I am here...$3#$b#The money would be a lot more...but I couldn't take care of the animals , just paperwork...$2",
-				"Sat2": "It is very interesting to have geese in my store, as they lay very large eggs, it is really a good option for a consistent feed.",
-				"Sat4": "Sometimes and I buy my pets from acquaintances who work in the same area, but I must say, they have some animals ... a little strange ...",
-				"Sat6": "Turkeys are large and very demanding birds, a luxury chicken coop is necessary.#$b#Their eggs are quite profitable.",
-				"Sat8": "Goats are demanding mammals, but not so much, they require a big barn.#$b#Their milk production is slower than that of cows, however, a lot is much more profitable.",
-				"Sun2": "Hey, I've seen that Guinea and Chickens have a lot in common, you know? They even share their darkest breeds ... Well, let's put these tense issues aside, spend any of these days to buy something at my store.",
-				"Sun4": "Rabbits are cute, but demanding animals, you will need a luxury chicken coop to house them.#$b#Their tufts of fur can be converted into fabric and sometimes they leave a special tuft called: Rabbit's foot. #$b#Almost everyone likes this special tuft.",
-				"Sun6": "Sheep are very demanding mammals, they need the space of a luxury barn.#$b#They produce wool with a certain frequency, which you can spin and form fabrics, whether to sell or create clothes.",
-				"Sun8": "Pigs are very demanding mammals, a large plot and a luxury barn could handle it.#$b#They are great truffle sniffers and diggers, hence the large terrain needed, truffles that can turn into truffle oil.",
-				"summer_Mon": "One of our cows gave birth last night, I was surprised when I saw a hereford calf, they are quite beautiful.",
-				"summer_Tue": "I sometimes think about how to take good care of some animals.#$b#This summer the heat can put a lot of heat stress on them.",
-				"fall_Wed": "Are you stocking up on hay for the winter @?, the animals eat a lot in the winter.#$b#Oh, don't forget to buy a heater so they don't get cold.",
-				"fall_Fri": "Peacocks are large birds and need a big barn, especially the male.#$b#The male produces beautiful feathers that are great gifts and need to be cut, while the females produce eggs that make excellent mayonnaise.",
-				"fall_Sat": "Damires has been recommending me some animals to sell... I don't know.#$b#But anyway, if I decide so, she'll help me with the sellers and the licenses.",
-				"spring_10_2": "My friend Damires has been in contact with me, I'm thinking of starting to sell some new animals...",
-				"winter_16_2": "Hi! This weather is pretty cold isn't it? Hope your animals are warm enough.$1"
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Penny",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Thu8": "I like to read, it is good to occupy the mind and mainly, to imagine in a world out of reality, I read recently: The ugly duckling.",
-				"summer_Mon2": "During the day, I like to teach children to have a good future, the difficult thing is to get their attention, just like ducks playing in the water.",
-				"fall_Mon6": "I recently read a novel called: The bull of Tremeia. #$e# Talk about love and overcoming ... #$e# It was a good read ...",
-				"winter_Mon8": "I've read some biology books recently, I'm amazed at how exuberant the peacock is."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Sebastian",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Wed10": "Sometimes I go out and watch the mountains, I've seen alpine goats, I may be seeing things, but I think one of them was black as night and had amethyst black eyes.",
-				"Sat4": "I'm doing some programming stuff, I lacked inspiration, but after seeing a few Guineas in the river last night, I had a good inspiration.",
-				"Sat10": "Hi @, it hasn't been many days since I heard a laugh while walking at night, it looked like a horror movie, with a witch haunting a village, well, it sounds more like fiction doesn't it?",
-				"fall_Wed6": "There is a lot on the internet, I watched a documentary that talks about various species and how sometimes they adapt to a new environment.#$b#Many Guineas can have a new molt in environments different from their original ones.",
-				"winter_Mon8": "I keep thinking about what must be strange in this world... I saw a bird that looked like a chicken, however, all black and red eyes.",
-				"spring_12": "I'm not a big fan of festivals... if I didn't have friends around here, I wouldn't even want to get up, I'd be lying in my bed like a pig in the mud."
-			},
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Shane",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"summer_Tue10": "I help my aunt with the chickens, sometimes I see her negotiating, one of the sellers has a black bull, he is very imposing.",
-				"winter_Wed6": "Another day at Joja, another day wasted on a mediocre routine. It seems that life has stalled for me, like a pig in the mud that doesn't want to get up.",
-				"spring_1_2": "Another beginning of the year, another useless year ahead, certainly, at least, I will see the birds that some traders bring, like geese and guineas and in particular the chickens.",
-				"fall_Sat10": "@, Hi, I hope everything is fine for you, because for me I'm just going down, just like an alpine goat going down the mountains.",
-				"Wed10": "Sometimes I miss when things were at least slightly right.#$b#Even a ponhedeira is more likely to lay an egg than my life to improve even slightly."
-			}
-		},
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Willy",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Mon2": "Do you like aquariums? They are cute.#$b#If you put a rock or seaweed, it will look even more beautiful.",
-				"Wed2": "You can put some really weird fish in an aquarium, have you tried @?",
-				"Sat2": "When you want to make your aquarium more alive, put some corals, it will be too beautiful.",
-				"Sun8": "My old daddy used to say that during the spring days, oh acclaimed Marlim, my father's fishing dream...",
-				"summer_Mon": "I heard that there is a snake of meters in the waters of the forest.",
-				"summer_Wed": "They say that when the waters turn green, a wormy fish could appear for you.#$b#Until today, it tore all or escape easily from the fishing rods.",
-				"fall_Tue": "They say that near the foot of the mountain there is a strange fish, because its liver is different.",
-				"fall_Sun": "During that time it was easy to see the fish swimming, the day before I saw a green fish with golden, he was too cute.$1",
-				"winter_Sat": "There is a legend that will tell me that in winter, if you go somewhere looking like an arrow, you will find him.#$b#Legends say that this fish came from the coldest waters of the arctic and its blue is very deep." ,
-				"spring_1_2": "I'm not just the biggest fisherman, but I'll try this year to catch the fish that's considered the most difficult.#$b#He must be somewhere in the valley lakes."
-			}
-		}, 
-		{
-			"Action": "EditData",
-			"Target": "Characters/Dialogue/Wizard",
-			"When": { "Language": "ko" },
-			"Entries":
-			{
-				"Fri2": "When I thought she was limited to chickens, she encompasses one more bird... What is she thinking?...#$b#Ah, hello @, I was thinking out loud, are you after magical knowledge?",
-				"fall_Mon": "This time the birds are starting to migrate south, fleeing the energies of the ice element...#$b#I will try to buy some duck and geese feathers for my mystical rituals.",
-				"fall_Wed": "I watched your acquaintance, Marnie, she sells animals of various types... some animal items have good magical energy.",
-				"winter_Mon": "It's cold... the flow of energy from the Ice element has finally arrived, and with that, all the birds like jesters are gone.",
-				"Sun2": "Have you ever seen a Pimmethius Rexarium, they can be hatched in hot places in small structures.#$b#Don't forget to place them when hatched in a larger structure.",
-				"Wed2": "(Whisper) (Whisper) ...Maybe with the arcane energy of it... that egg of di...#$b#Ah, @, what is it?",
-				"spring_1_2": "I saw an Avenungansai-ouros today, this mystical being says a lot about what his beginning of the year will be like.",
-				"summer_20_2": "At that time the activity of the suinius-misteriuns is very frequent, that of the same species of my friend Trader Ambulante, they find a truffle almost as sweet as the rare jewel cherry.",
-			}
-		},		
-	]
-}
+				"1224": "Sea Bream/900/18/Fish -4/Sea Bream/An avid squid hunter, his large forehead makes him easily recognizable.",
+				"1225": "Marlim/1150/21/Fish -4/Marlin/Fast and brute, once he was considered legendary, today he has lost his crown.",
+				"1226": "Red Piranha/75/7/Fish -4/Red Piranha/Virtually resident of muddy rivers, they live in small schools and are omnivorous, with carnivorous tendencies.",
+				"1227": "Warbler Ray/125/-50/Fish -4/Warbler Ray/Kite-shaped, adults live on coral reefs, while juveniles are also found near beaches.",
+				"1228": "Butterfly Ray/65/-25/Fish -4/Butterfly Ray/With very elongated fins, they live in very saline places close to the bottom.",
+				"1229": "Sandpaper Ray/50/15/Fish -4/Sandpaper Ray/Trapezoidal shaped and armed with a serrated stinger, it lives in shallow waters along the normally sandy bottom.",
+				"1230": "Blue Barracuda/150/18/Fish -4/Blue Barracuda/Thin and long, its shape makes it a voracious predatory missile.",
+				"1231": "Lesser Sea Bass/75/14/Fish -4/Lesser Sea Bass/Very hardy and salinity tolerant, he loves shrimp and crabs.",
+				"1232": "Anaconda/800/14/Fish -4/Anaconda/This snake can reach an incredible 11 meters, it hunts by wrapping itself in victims and killing them by strangling them.",
+				"1233": "Green River Snake/65/5/Fish -4/Green River Snake/Agile and discreet, this snake is as good at fishing as it is swimming.",
+				"1234": "Fingerling/5/1/Fish -4/Fingerling/A baby fish.",
+				"1235": "Blue Pearl Shrimp/125/-300/Fish -4/Blue Pearl Shrimp/Coral reef residents, in warm weather they swim in the open sea.",
+				"1236": "Pale Blue-Ringed Octopus/110/-50/Fish -4/Pale Blue-Ringed Octopus/This small animal is known for the blue rings on its body and the very powerful venom it possesses.",
+				"1237": "Black Piranha/110/10/Fish -4/Black Piranha/Common in clear or muddy rivers, they are voracious predators with sharp teeth and an insatiable appetite.",
+				"1238": "Blue Jellyfish/35/-25/Fish -4/Blue Jellyfish/This gastropod has tentacles with burning venom.",
+				"1239": "Sea Lettuce/15/5/Fish/Sea Lettuce/In coastal regions, it is used in place of lettuce, cabbage and other vegetables.",
+                "1240": "Jundia/60/8/Fish -4/Jundia/They are easy to identify because they are a fish without scales and have large barbels.",
+                "1241": "Sea Turtle/250/-300/Fish -4/Sea Turtle/Through the sea currents it travels across the globe.",
+                "1242": "Bicuda/90/11/Fish -4/Bicuda/It feeds on fish and uses its jumping and acrobatic swimming to hunt.",
+                "1243": "Peacock bass/105/13/Fish -4/Peacock bass/Called cod of the amazon, it can reach up to 3 meters in length and has adaptation for aerial breathing.",
+                "1244": "Lambari/50/6/Fish -4/Lambari/A fearless fish, they live in rivers, streams, ponds and even in dams, even where there is human occupation.",
+                "1245": "Acara/60/8/Fish -4/Acara/Very present in rivers especially in backwaters or on banks with abundant vegetation.",
+                "1246": "Poraque/140/5/Fish -4/Poraque/Popularly known as Electric Eel, it is capable of generating discharges of up to 1500 volts.",
+                "1247": "Betrayed/120/11/Fish -4/Betrayed/It is considered one of the most aggressive and predatory freshwater species.",
+                "1248": "Blood Lamprey/50/-5/Fish -4/Blood Lamprey/Without having a jaw, it attaches itself with its circular mouth to fish to feed on fluids and tissue.",
+                "1249": "Leech/45/-300/Fish -4/Leech/An aquatic parasite that attaches itself to its host and sucks its blood.",
+                "1250": "Red Starfish/65/-300/Fish -4/Red Starfish/Despite their harmless appearance, they are the terror of crustaceans and oysters.",
+                "1251": "Orange Seahorse/100/-300/Fish -4/Orange Seahorse/Presents in coral reefs of tropical areas all over the planet, the males curiously get pregnant.",
+                "1252": "Sea Wasp/110/-300/Fish -4/Sea Wasp/Also called cubomedusa, she is considered the most venomous animal in the world.",
+                "1253": "Lion Jellyfish Cub/45/-150/Fish -4/Lion Jellyfish Cub/When young live in warm waters, they can reach up to 4.5 meters in diameter.",
+                "1254": "Blue Crab/95/-300/Fish -4/Blue Crab/They prefer to live on muddy beaches, but do well in the common sea.",
+                "1255": "Violet Flame Jellyfish/75/-150/Fish -4/Violet Flame Jellyfish/A mere touch of its tentacle can cause 3rd degree burns.",
+                "1256": "Water Worm/20/-300/Fish -4/Water Worm/A small annelid that has adapted to live entirely in water.",
+                "1257": "Sea Slug/85/-300/Fish -4/Sea Slug/Similar to land slugs, their appearance is attractive.",
+                "1258": "Dark Stone Hedgehog/100/-300/Fish/Dark Stone Hedgehog/Once an invasive species, today it has adapted and become endemic on ginger island.",
+                "1259": "Clown fish/120/3/Fish -4/Clown fish/They like to stay on coral reefs in the warm, shallow parts of the ocean.",
+                "1260": "Void Fingerling/15/1/Fish -4/Void Fingerling/This pup is emanating zero energy.",
+                "1261": "Mutant Fingerling/10/1/Fish -4/Mutant Fingerling/He's weird and secretes a lot of goo.",
+                "1262": "Snake Egg/30/3/Egg -5/Snake Egg/The green river snakes tend to nest in the riverbed.",
+                "1263": "Turtle Egg/30/3/Egg -5/Turtle Egg/Sea turtles come ashore, dig and bury them.",
+                "1264": "Turtle Scale/100/-300/AnimalGoods -18/Turtle Scale/A small fragment, but quite sturdy.",
+                "1265": "Snake Nest/210/80/Cooking -7/Snake Nest/An unusual dish created by fishermen from snake-infested rivers./food/0 0 0 0 1 0 0 0 0 1 0 1/420",
+                "1266": "Hermit/65/-300/Fish -4/Hermit/A little crustacean living in his little house.",
+                "1267": "Agaricia coral/80/-300/Basic -23/Coral Agaricia/This formation of small beings looks like a chalice seen from above.",
+                "1268": "Fire coral/90/-300/Basic -23/Fire coral/This collection of small beings secretes a mucus that causes burns.",
+                "1269": "Tube Coral/80/-300/Basic -23/Tube Coral/This colony of small beings form elongated tubes.",
+                "1270": "Moose Horns Coral/90/-300/Basic -23/Moose Horns Coral/Elongated in shape, this colony looks like the antlers of a moose.",
