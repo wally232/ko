@@ -1,20 +1,48 @@
-"Get Garden Pot Earlier", "Evelyn will send you a Garden Pot once you reach 2 hearts level of friendship with her. You will not learn the recipe though, for that you should get the greenhouse as normal."
-"Soil Under Trees", "A soil tile will be shown under trees when planted on stone floor, wood and other 'not plantable' soil. Some tiles aren't correct labeled by the game, so the soil tile may appears on places you would think it's not needed."
-"Unlimited Range", "Let you grab a plant into the held garden pot and place it again on the floor from/to any suitable tile on the screen. No need to get near it."
-"Crop Properties:", "Properties for crops transplant."
-"Place Outside The Farm", "You'll be able to place Garden Pot holding a crop on outdoor areas out of the farm. You can also put crops on hoed tiles out of the farm."
-"Transplant Energy Cost", "The cost of energy for lifting a crop from the ground. The energy cost decrease as you level up the farming skill. Level 10 will cost 50% less energy than the base cost."
-"Tree Properties:", "Properties for regular tree transplant."
-"Max Stage", "The max stage a tree can be lifted. 0 to disable the lifting of any tree. 5 will enable all stages.",
- "Place On Any Tile", "You'll be able to place trees on any unoccupied tile type.",
+"Get Garden Pot Earlier",
+"Evelyn will send you a Garden Pot once you reach 2 hearts level of friendship with her. You will not learn the recipe though, for that you should get the greenhouse as normal."
+
+"Soil Under Trees",
+"A soil tile will be shown under trees when planted on stone floor, wood and other 'not plantable' soil. Some tiles aren't correct labeled by the game, so the soil tile may appears on places you would think it's not needed."
+
+"Unlimited Range",
+"Let you grab a plant into the held garden pot and place it again on the floor from/to any suitable tile on the screen. No need to get near it."
+
+"Crop Properties:",
+"Properties for crops transplant."
+
+"Place Outside The Farm",
+"You'll be able to place Garden Pot holding a crop on outdoor areas out of the farm. You can also put crops on hoed tiles out of the farm."
+
+"Transplant Energy Cost",
+"The cost of energy for lifting a crop from the ground. The energy cost decrease as you level up the farming skill. Level 10 will cost 50% less energy than the base cost."
+
+"Tree Properties:",
+"Properties for regular tree transplant."
+
+"Max Stage", 
+"The max stage a tree can be lifted. 0 to disable the lifting of any tree. 5 will enable all stages.",
+
+ "Place On Any Tile", 
+"You'll be able to place trees on any unoccupied tile type.",
+
 "The cost of energy for lifting a {0} stage {1}({2}) from the ground. Check the wiki for the stage images. The energy cost decreases as you level up the {3} skill. Level 10 will cost 50% less energy than the base cost.";
 "Stage 1 Energy Cost",
-"Fruit Tree Properties:", "Properties for fruit tree transplant."
-"Max Stage", "The max stage a fruit tree can be lifted. 0 to disable the lifting of any fruit tree. 5 will enable all stages.",
-"Place Outside The Farm", "﻿You'll be able to place fruit trees out of the farm.",
-"Place On Any Tile", "You'll be able to place fruit trees on any unoccupied tile type.",
-"Place Next To Another Tree", "You'll be able to place fruit trees next to other trees. They will still not mature if to close to other stuff.",
-"Place Blocked Growth", "You'll be able to place immature fruit trees where they will not mature.",
-"Tea Bush Properties:", "Properties for tea bush transplant."
-"Place Outside The Farm", "You'll be able to place tea bush out of the farm."
-"Place On Any Tile", "You'll be able to place tea bush on any unoccupied tile type."
+
+"Fruit Tree Properties:",
+"Properties for fruit tree transplant."
+"Max Stage",
+"The max stage a fruit tree can be lifted. 0 to disable the lifting of any fruit tree. 5 will enable all stages.",
+"Place Outside The Farm",
+"﻿You'll be able to place fruit trees out of the farm.",
+"Place On Any Tile",
+"You'll be able to place fruit trees on any unoccupied tile type.",
+"Place Next To Another Tree",
+"You'll be able to place fruit trees next to other trees. They will still not mature if to close to other stuff.",
+"Place Blocked Growth",
+"You'll be able to place immature fruit trees where they will not mature.",
+"Tea Bush Properties:",
+"Properties for tea bush transplant."
+"Place Outside The Farm", 
+"You'll be able to place tea bush out of the farm."
+"Place On Any Tile",
+"You'll be able to place tea bush on any unoccupied tile type."
